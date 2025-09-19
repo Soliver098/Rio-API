@@ -1,4 +1,4 @@
 <?php
 require_once 'functions.php';
 
-echo 'test';
+echo 'tedst';
